@@ -6,4 +6,5 @@ package com.loveskq.PluginFrame.Manager.PluginInfo;
 public class PluginInfo {
     String mStatus;
     String mPackageName;
+    String mVersion;
 }
